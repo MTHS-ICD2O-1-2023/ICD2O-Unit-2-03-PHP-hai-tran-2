@@ -35,7 +35,7 @@
           $number = $_POST["street-number"];
           $name = $_POST["street-name"];
 
-          echo "Your address is: " . $number .  $name . ".";
+          echo "Your address is: " . $number . ", " . $name . ".";
           ?>
         </div>
       </div>
